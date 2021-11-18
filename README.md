@@ -1,2 +1,2 @@
-# Coffee_Website_Template
-Sample Coffee Website Template
+# Sample Coffee Store Website Template
+Sample Coffee Store Website Template
